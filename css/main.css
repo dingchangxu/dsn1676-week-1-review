@@ -12,7 +12,12 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  
+  background-color: #07181E;
+  color: #07181E;
 }
+
+  
 
 *, *:before, *:after {
   box-sizing: inherit;
